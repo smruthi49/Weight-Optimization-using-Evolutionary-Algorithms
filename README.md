@@ -18,7 +18,7 @@ Each algorithm has been implemented in a separate Python file, which contains th
 
 The neural network used in this repository has the following architecture:
 
-    Input layer: 12 neurons (for 12 inputs)
+    Input layer: 12 neurons (for 12 features)
     Hidden layer: 10 neurons
     Output layer: 1 neuron
     
