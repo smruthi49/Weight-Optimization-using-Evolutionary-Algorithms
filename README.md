@@ -23,3 +23,13 @@ The neural network used in this repository has the following architecture:
     Output layer: 1 neuron
     
    
+| Algorithm                | Test Accuracy |
+|--------------------------|---------------|
+| Cultural Algorithm       | 68.75%        |
+| Genetic Algorithm        | 76.5%         |
+
+This table shows the test accuracy achieved by each Cultural and Genetic algorithm using
+- generations : 25
+- chromosomes : 40
+- crossover rate : 0.8
+- mutation rate : 0.4
