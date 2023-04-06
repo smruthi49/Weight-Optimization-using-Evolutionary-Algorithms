@@ -25,6 +25,7 @@ The neural network used in this repository has the following architecture:
    
 | Algorithm                | Test Accuracy |
 |--------------------------|---------------|
+| Ant Colony Optimisation | 73.39% |
 | Cultural Algorithm       | 68.75%        |
 | Genetic Algorithm        | 76.5%         |
 | Particle Swarm Optimisation | 88.54% |
