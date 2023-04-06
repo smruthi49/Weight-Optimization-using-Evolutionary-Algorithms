@@ -33,3 +33,12 @@ This table shows the test accuracy achieved by each Cultural and Genetic algorit
 - chromosomes : 40
 - crossover rate : 0.8
 - mutation rate : 0.4
+
+## Genetic Algorithm
+| Hidden Layer Size | Generations | Chromosomes | Mating Parents | Crossover Rate | Mutation Rate | Train Accuracy | Test Accuracy |
+|-------------------|-------------|-------------|----------------|----------------|---------------|----------------|---------------|
+| 7                 | 25          | 40          | 10             | 0.80           | 0.4           | 0.7357         | 0.7396        |
+| 10                | 25          | 40          | 10             | 0.80           | 0.4           | 0.6745         | 0.6510        |
+| 10                | 30          | 40          | 10             | 0.80           | 0.4           | 0.7435         | 0.7448        |
+| 10                | 20          | 30          | 10             | 0.85           | 0.3           | 0.8398         | 0.8490        |
+
