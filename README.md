@@ -1,6 +1,6 @@
 ## Weight Optimization using Evolutionary Algorithms
 
-This repository contains the implementation of Ant Colony Optimization, Cultural Algorithm, Genetic Algorithm, and Particle Swarm Optimization for optimizing neural network weights. These algorithms can be used to train neural networks in a more efficient manner, by finding the optimal values for the weights.
+This repository contains the Whitebox implementation of Ant Colony Optimization, Cultural Algorithm, Genetic Algorithm, and Particle Swarm Optimization for optimizing neural network weights. These algorithms can be used to train neural networks in a more efficient manner, by finding the optimal values for the weights.
 
 
 ### Implemented Algorithms
