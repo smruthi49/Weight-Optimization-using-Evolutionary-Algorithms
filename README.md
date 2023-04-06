@@ -5,8 +5,6 @@ This repository contains the Whitebox implementation of Ant Colony Optimization,
 
 ### Implemented Algorithms
 
-The following algorithms have been implemented:
-
     Ant Colony Optimization
     Cultural Algorithm
     Genetic Algorithm
