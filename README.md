@@ -27,6 +27,7 @@ The neural network used in this repository has the following architecture:
 |--------------------------|---------------|
 | Cultural Algorithm       | 68.75%        |
 | Genetic Algorithm        | 76.5%         |
+| Particle Swarm Optimisation | 88.54% |
 
 This table shows the test accuracy achieved by each Cultural and Genetic algorithm using
 - generations : 25
