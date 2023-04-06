@@ -20,6 +20,7 @@ The neural network used in this repository has the following architecture:
     Hidden layer: 10 neurons
     Output layer: 1 neuron
     
+## Accuracy Comparison
    
 | Algorithm                | Test Accuracy |
 |--------------------------|---------------|
@@ -27,12 +28,6 @@ The neural network used in this repository has the following architecture:
 | Cultural Algorithm       | 68.75%        |
 | Genetic Algorithm        | 76.5%         |
 | Particle Swarm Optimisation | 88.54% |
-
-This table shows the test accuracy achieved by each Cultural and Genetic algorithm using
-- generations : 25
-- chromosomes : 40
-- crossover rate : 0.8
-- mutation rate : 0.4
 
 ## Genetic Algorithm
 | Hidden Layer Size | Generations | Chromosomes | Mating Parents | Crossover Rate | Mutation Rate | Train Accuracy | Test Accuracy |
