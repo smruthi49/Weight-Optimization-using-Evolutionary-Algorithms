@@ -42,3 +42,5 @@ This table shows the test accuracy achieved by each Cultural and Genetic algorit
 | 10                | 30          | 40          | 10             | 0.80           | 0.4           | 0.7435         | 0.7448        |
 | 10                | 20          | 30          | 10             | 0.85           | 0.3           | 0.8398         | 0.8490        |
 
+## Inference
+ Particle Swarm optimisation gave the best results in comparison with the other three evolutionary algorithms
